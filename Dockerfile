@@ -1,6 +1,3 @@
-5:13:51 PM: 
-DockerFile
-
 FROM ubuntu:18.04
 MAINTAINER Ziyan Akthar <ziyanakthar@gmail.com>
 
