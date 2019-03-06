@@ -38,7 +38,7 @@
      <repository>
       <id>repo</id>
       <name>repo</name>
-       <url>http://54.153.90.164:8081/nexus/content/repositories/repo/</url>
+       <url>http://13.56.238.157:8081/nexus/content/repositories/repo/</url>
      </repository>
     </distributionManagement> 
 </project>
